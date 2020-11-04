@@ -130,17 +130,3 @@ html {
   font-size: 16px;
   text-transform: uppercase;
 }
-
-.credit {
-  display: block;
-  text-align: center;
-  width: 100%;
-  position: absolute;
-  bottom: 20px;
-  margin: 0 auto;
-}
-
-.credit a,
-.error {
-  color: #c2185b;
-}
